@@ -7,4 +7,3 @@ nombre = input("ingresa tu nombre :")
 for contador in nombre:
         print(contador)
 
-#BUCLE WHILE
